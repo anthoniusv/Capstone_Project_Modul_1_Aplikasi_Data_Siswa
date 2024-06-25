@@ -1,4 +1,5 @@
 # Capstone Project Modul 1: Student Information Sistem (Sistem Informasi Siswa)
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 ## Overview
 Project pada modul 1 ini mengimplementasikan konsep-konsep dasar dalam Python seperti *variable*, *looping*, *collection data types* dan *function* untuk membuat sebuah aplikasi manajemen sistem informasi data siswa. Aplikasi ini dirancang untuk memudahkan pengelolaan data induk dan nilai siswa, termasuk fungsi-fungsi untuk menambahkan data baru, mengubah data yang sudah ada, dan menghapus data yang tidak relevan.
 
